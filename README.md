@@ -1,184 +1,380 @@
-<div align="center">
+�
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:060a10,50:0b1a24,100:060a10&height=200&section=header&text=ANJANNA%20//%20BLOODRAVAN&fontSize=42&fontColor=5be0e8&fontAlignY=38&desc=AI%20×%20Cybersecurity%20×%20Engineering&descAlignY=58&descSize=18&descAlign=50&animation=fadeIn" width="100%"/>
+�
+￼
+�
 
-<a href="https://github.com/bloodravan">
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=16&duration=3000&pause=1000&color=5BE0E8&center=true&vCenter=true&width=560&lines=B.Tech+CSE%2FAIML+%C2%B7+CMR+Technical+Campus;Exploring+AI+%2B+Cybersecurity+from+every+angle;Build.+Break.+Understand.+Secure.+Repeat." alt="Typing SVG" />
-</a>
 
-<br/>
+�
+￼ ￼ ￼ ￼ 
+�
 
-![Status](https://img.shields.io/badge/SYSTEM-ONLINE-5be0e8?style=for-the-badge&labelColor=0b0f19)
-![Location](https://img.shields.io/badge/HYDERABAD-INDIA-8c86e8?style=for-the-badge&labelColor=0b0f19)
-![Focus](https://img.shields.io/badge/FOCUS-AI%20%2B%20SECURITY-5be0e8?style=for-the-badge&labelColor=0b0f19)
+A:\> whoami
+�
 
-<p>
-<a href="https://github.com/bloodravan"><img src="https://img.shields.io/badge/GitHub-bloodravan-0b0f19?style=flat-square&logo=github&logoColor=5be0e8&labelColor=0b0f19" /></a>
-<a href="https://www.linkedin.com/in/medepallyanjanna"><img src="https://img.shields.io/badge/LinkedIn-Anjanna-0b0f19?style=flat-square&logo=linkedin&logoColor=8c86e8&labelColor=0b0f19" /></a>
-<a href="https://x.com/blood__ravan1"><img src="https://img.shields.io/badge/X-blood__ravan1-0b0f19?style=flat-square&logo=x&logoColor=5be0e8&labelColor=0b0f19" /></a>
-<a href="https://www.youtube.com/@CyberHackGuide"><img src="https://img.shields.io/badge/YouTube-CyberHackGuide-0b0f19?style=flat-square&logo=youtube&logoColor=8c86e8&labelColor=0b0f19" /></a>
-</p>
+ANJANNA
+B.Tech CSE (AI/ML) Student • AI Builder • Cybersecurity / Ethical Hacking Learner
+I'm interested in the intersection of Artificial Intelligence, Cybersecurity, Ethical Hacking, Full-Stack Development, Prompt Engineering, and AI Agents.
+I enjoy coding, hacking, exploring AI models, understanding systems, and building innovative things with technology. I naturally think through multiple possibilities when approaching a problem, and I like turning those possibilities into experiments, prototypes, and real projects.
+My long-term mission is to become a world-class cybersecurity engineer who can deeply understand, ethically test, secure, and build complex systems — while exploring how AI can transform cybersecurity.
+�
 
-</div>
+�
+￼
+�
 
----
 
-### `// ABOUT`
+@bloodravan
+CMR Technical Campus
+Hyderabad, Telangana, India
+2nd Year • Class of 2029
+�
 
-I'm Anjanna — a 2nd-year B.Tech CSE/AIML student at CMR Technical Campus, Hyderabad, exploring the intersection of **artificial intelligence**, **cybersecurity**, **ethical hacking** and **full-stack engineering**. I learn mostly by building: agents, security tooling, hackathon entries, and the occasional experiment that only half-works.
+MISSION_CONTROL.exe
+Build. Break. Understand. Secure. Repeat.
+�
 
-I naturally think through several possibilities before committing to a path — that shows up in how I approach a problem:
+Current Mission
+Master AI and cybersecurity
+Go deeper into ethical hacking
+Build intelligent AI agents
+Explore AI-assisted cybersecurity
+Develop real-time applications
+Research emerging technology
+Build for hackathons and real-world use
+�
 
-<div align="center">
+Long-Term Direction
+LEARN DEEPLY
+     ↓
+BUILD REAL SYSTEMS
+     ↓
+UNDERSTAND HOW THEY WORK
+     ↓
+TEST THEM ETHICALLY
+     ↓
+SECURE THEM
+     ↓
+CONNECT AI + CYBERSECURITY
+     ↓
+KEEP PUSHING FORWARD
+�
 
-`ONE PROBLEM` → `MANY POSSIBILITIES` → `BUILD · TEST · BREAK · SECURE · AUTOMATE` → `BETTER SYSTEM`
+CURRENTLY_EXPLORING
+┌──────────────────────────────────────────────────────────────┐
+│  ◉ AI AGENTS              ◉ AI + CYBERSECURITY              │
+│  ◉ AGI / EMERGING AI      ◉ PROMPT ENGINEERING              │
+│  ◉ RECON                   ◉ SECURITY RESEARCH               │
+│  ◉ FRONTEND                ◉ AI RESEARCH                     │
+│  ◉ REAL-TIME BUILDING      ◉ HACKATHON DEVELOPMENT           │
+└──────────────────────────────────────────────────────────────┘
+My strongest curiosity is around AI agents, AGI transformation, hacking with AI, reconnaissance, prompt engineering, AI research, frontend engineering, and building useful real-time systems.
+SKILL_MATRIX
+Programming
+Area
+Technologies
+Languages
+Java · Python · JavaScript · C · SQL
+Web
+HTML · CSS · React · Node.js
+Database
+MySQL
+Engineering
+Git · GitHub · Docker · Linux
+AI
+Focus
+Technologies / Tools
+AI Development
+AI Agents · Prompt Engineering · Ollama
+Model / API Ecosystem
+OpenAI APIs · Gemini · Claude · ChatGPT · DeepSeek
+Current Interest
+AI agents · AGI transformation · AI research · AI + cybersecurity
+Cybersecurity
+Focus
+Current Skills / Interests
+Foundations
+Linux · Networking
+Security
+Recon · Nmap · Ethical Hacking
+Direction
+Security research · AI-assisted hacking · deeper cybersecurity mastery
+ENGINEERING_MINDSET
+�
+🧠
+THINK
+Multiple possibilities⌨️
+BUILD
+Turn ideas into systems🧪
+EXPLORE
+Experiment constantly🛡️
+SECURE
+Understand failure🚀
+EVOLVE
+Keep learning
+PROJECT_OBSERVATORY
+Projects are shown as real work and real directions, not inflated claims.
+�
+🛡️ SAT-SA — SOC ANALYST TOOL
+SAT-SA
+A cybersecurity-oriented tool for SOC analysts.
+Focus: SOC operations and cybersecurity analysis.
+Category: Cybersecurity
+Direction:
+SOC
+ ↓
+ANALYSIS
+ ↓
+SECURITY INSIGHT
+ ↓
+SOC ANALYST
+�
 
-</div>
+�
+🥗 RISE AND SHINE — PERSONAL HEALTH ASSISTANT
+Rise and Shine
+A personal health assistant concept that monitors food, diet, workouts, and daily health habits.
+Its central idea is to make consistency motivating through streaks and a reward / money-streak system, supported by a streak dashboard.
+FOOD + DIET + WORKOUTS
+          ↓
+      DAILY TRACKING
+          ↓
+        STREAK
+          ↓
+      REWARD SYSTEM
+          ↓
+       MOTIVATION
+Category: Health / AI / Product Concept
+�
 
-**Long-term mission:** become a cybersecurity engineer who can deeply understand, test, build, secure and defend complex systems — while pushing the intersection of AI and cybersecurity forward. That's a direction I'm evidencing, not a title I'm claiming yet.
+�
+🌾 AGRITHON — FARMER ASSISTANCE
+AgriThon
+A project designed to help farmers discover government schemes and support and receive agricultural guidance.
+The goal is practical assistance through technology.
+Category: AI / Agriculture / Social Impact
+�
 
----
+�
+🎓 SKILLS DEVELOPMENT PLATFORM
+Skills Development Platform
+A learning and skills-development platform inspired by online learning platforms such as Coursera, with a broader vision for learning, skill development, progression, and intelligent assistance.
+Category: EdTech / AI / Full Stack
+�
 
-### `// CURRENTLY EXPLORING`
+�
+♿ ACCESSIQ — MULTIMODAL AI
+ACCESSIQ
+A multimodal AI platform focused on making educational content more accessible, understandable, adaptable, and personalized for students with different learning and accessibility needs.
+GitHub: bloodravan/ACCESSIQ
+Category: AI / Education / Accessibility
+�
 
-![](https://img.shields.io/badge/AI_Agents-active-5be0e8?style=flat-square&labelColor=0b0f19)
-![](https://img.shields.io/badge/AI_%2B_Cybersecurity-active-5be0e8?style=flat-square&labelColor=0b0f19)
-![](https://img.shields.io/badge/Prompt_Engineering-active-5be0e8?style=flat-square&labelColor=0b0f19)
-![](https://img.shields.io/badge/Recon-active-8c86e8?style=flat-square&labelColor=0b0f19)
-![](https://img.shields.io/badge/Security_Research-active-8c86e8?style=flat-square&labelColor=0b0f19)
-![](https://img.shields.io/badge/AGI_%2F_Emerging_AI-active-8c86e8?style=flat-square&labelColor=0b0f19)
-![](https://img.shields.io/badge/Real--time_AI_Apps-active-5be0e8?style=flat-square&labelColor=0b0f19)
-![](https://img.shields.io/badge/Hackathon_Building-active-5be0e8?style=flat-square&labelColor=0b0f19)
+�
+📦 EXPIRY RISK REDISTRIBUTION AGENT
+Expiry Risk Redistribution Agent
+An AI-powered system that identifies inventory at risk of expiry and recommends a redistribution action.
+GitHub: bloodravan/Expiry-Risk-Redistribution-Agent
+Category: AI Agents / Decision Support
+�
 
----
+�
+🏥 MEDIBOOK — DOCTOR APPOINTMENT BOOKING SYSTEM
+MediBook
+A full-stack doctor appointment booking system built around a database-centric design.
+Stack: HTML · CSS · JavaScript · Bootstrap · Python · Flask · MySQL
+The project includes:
+Registration and login
+Role-based access
+Doctor search
+Availability and slot generation
+Booking / cancellation / rescheduling
+Admin reporting
+Audit logging
+Transaction-safe booking
+Database constraints
+Concurrency handling
+Testing
+GitHub: bloodravan/Doctor-Appointment-Booking-System
+Category: Full Stack / Backend / Database Engineering
+�
 
-### `// TECH STACK`
+�
+🤖 GEMMAAPP — AI / MOBILE EXPERIMENT
+gemmaApp
+An AI/mobile development project in my GitHub work.
+GitHub: bloodravan/gemmaApp
+Category: AI / Mobile / Experimentation
+�
 
-<div align="center">
+�
+🤖 DEVIL — PERSONAL AI AGENT
+DEVIL
+A personal AI desktop-agent direction focused on voice-first interaction, AI assistance, automation, and desktop workflows.
+VOICE
+ ↓
+INTENT
+ ↓
+AI AGENT
+ ↓
+TOOLS / AUTOMATION
+ ↓
+DESKTOP ACTION
+Category: AI Agents / Automation / Desktop AI
+�
 
-**Programming**
-<br/>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,c&theme=dark" />
+�
+🧠 IGRIS — AI DESKTOP ASSISTANT
+IGRIS
+A personal voice-first AI desktop-assistant direction inspired by the idea of an intelligent operating assistant.
+Focus: Voice · AI · Automation · Desktop Assistance
+Category: Personal AI Systems
+�
 
-**AI**
-<br/>
-![OpenAI](https://img.shields.io/badge/OpenAI_APIs-0b0f19?style=flat-square&logo=openai&logoColor=5be0e8)
-![Gemini](https://img.shields.io/badge/Gemini-0b0f19?style=flat-square&logo=googlegemini&logoColor=8c86e8)
-![Claude](https://img.shields.io/badge/Claude-0b0f19?style=flat-square&logo=anthropic&logoColor=5be0e8)
-![Ollama](https://img.shields.io/badge/Ollama-0b0f19?style=flat-square&logo=ollama&logoColor=8c86e8)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-0b0f19?style=flat-square&logo=openai&logoColor=5be0e8)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-0b0f19?style=flat-square&logoColor=8c86e8)
-![PromptEng](https://img.shields.io/badge/Prompt_Engineering-0b0f19?style=flat-square&logoColor=5be0e8)
-![Agents](https://img.shields.io/badge/AI_Agents-0b0f19?style=flat-square&logoColor=8c86e8)
+BUILD_LOG
+Hackathons & Build Events
+LUCENTIA
+AGRITHON
+SMART INDIA HACKATHON × 2
+DATAZOIDS
+BUILD WITH GEMMA
+Community / Event Activity
+EPAM EVENT       → ORGANIZED
+CLAUDE WORKSHOP  → WORKSHOP ACTIVITY
+These experiences are part of my learning path through building, experimenting, collaborating, and exploring technology under real constraints.
+ACHIEVEMENT_MATRIX
+Area
+Experience
+Cybersecurity
+Ethical hacking interest, Linux, networking, Nmap, recon
+AI
+AI models, AI agents, prompt engineering, AI research
+Building
+Multiple AI, cybersecurity, full-stack and social-impact projects
+Hackathons
+Lucentia, AgriThon, 2× SIH, Datazoids, Build with Gemma
+Leadership
+Technical event organization
+Speaking
+Workshop / speaking activity
+NCC
+NCC Cadet — 9th & 10th
+HOW_I_THINK
+ONE PROBLEM
+     │
+     ├── POSSIBILITY A
+     ├── POSSIBILITY B
+     ├── POSSIBILITY C
+     └── POSSIBILITY D
+            │
+            ▼
+      BUILD / TEST / LEARN
+            │
+            ▼
+       BETTER APPROACH
+I like exploring a problem from more than one angle and then turning that exploration into something tangible.
+INTEREST_MAP
+�
+🤖
+AI🛡️
+CYBERSECURITY⚔️
+ETHICAL HACKING🧠
+AI AGENTS⌨️
+CODING🌐
+WEB🔬
+RESEARCH🧪
+EXPERIMENTS🚀
+HACKATHONS⚡
+EMERGING TECH
+SAFE_TERMINAL
+A:\> whoami
 
-**Web**
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs&theme=dark" />
+ANJANNA
+@bloodravan
 
-**Cybersecurity**
-<br/>
-<img src="https://skillicons.dev/icons?i=linux&theme=dark" />
-![Networking](https://img.shields.io/badge/Networking-0b0f19?style=flat-square&logoColor=5be0e8)
-![Nmap](https://img.shields.io/badge/Nmap-0b0f19?style=flat-square&logo=nmap&logoColor=8c86e8)
-![Recon](https://img.shields.io/badge/Recon-0b0f19?style=flat-square&logoColor=5be0e8)
-![EthicalHacking](https://img.shields.io/badge/Ethical_Hacking-0b0f19?style=flat-square&logoColor=8c86e8)
+A:\> focus
 
-**Database &amp; Infra**
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,git,github,docker&theme=dark" />
+AI AGENTS
+AI + CYBERSECURITY
+ETHICAL HACKING
+RECON
+PROMPT ENGINEERING
+AI RESEARCH
+FULL-STACK DEVELOPMENT
 
-</div>
+A:\> mission
 
----
+Become a world-class cybersecurity engineer
+while exploring the intersection of AI and security.
 
-### `// GITHUB SIGNAL`
+A:\> status
 
-<div align="center">
+LEARNING   :: ACTIVE
+BUILDING   :: ACTIVE
+EXPLORING  :: ACTIVE
+DIRECTION  :: AI × CYBERSECURITY
+CONNECT_WITH_ME
+�
 
-<img src="https://github-readme-stats.vercel.app/api?username=bloodravan&show_icons=true&theme=dark&hide_border=true&bg_color=0b131c&title_color=5be0e8&icon_color=8c86e8&text_color=e7eef2&ring_color=5be0e8" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bloodravan&theme=dark&hide_border=true&background=0B131C&ring=5BE0E8&fire=8C86E8&currStreakLabel=5BE0E8" width="49%" />
+Platform
+Link
+GitHub
+github.com/bloodravan
+LinkedIn
+linkedin.com/in/medepallyanjanna
+Instagram
+@blood__ravan
+X
+@blood__ravan1
+YouTube
+CyberHackGuide
+LeetCode
+Profile
+HackerRank
+Profile
+CodeChef
+Profile
+Codeforces
+Profile
+TryHackMe
+Profile
+Kaggle
+Profile
+�
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bloodravan&layout=compact&theme=dark&hide_border=true&bg_color=0b131c&title_color=5be0e8&text_color=e7eef2" width="49%" />
+PROFESSIONAL_DIRECTION
+AI
++
+CYBERSECURITY
++
+ETHICAL HACKING
++
+AI AGENTS
++
+FULL-STACK ENGINEERING
++
+SYSTEM UNDERSTANDING
+=
+THE DIRECTION I'M BUILDING TOWARD
+I'm especially interested in opportunities where I can learn deeply, build real systems, explore emerging technology, and work at the intersection of AI and cybersecurity.
+FINAL_SIGNAL
+�
 
-<sub>Cards pull live from the GitHub API — if a card shows no data, GitHub's stats service is rate-limited or repos are private; nothing here is hardcoded.</sub>
+SAME PERSON.
+BIGGER IDEAS.
+BIGGER GOALS.
+BUILD • LEARN • HACK • INNOVATE • AUTOMATE
+�
 
-</div>
 
----
+ANJANNA // BLOODRAVAN
+�
 
-### `// PROJECT OBSERVATORY`
 
-| Project | Category | Status | What it does |
-|---|---|---|---|
-| **MediBook** | Full-Stack / Database | `BUILT` | Flask + MySQL doctor-booking system — RBAC, availability engine, double-booking prevented at the DB level via transactional row locking |
-| **AccessIQ** | Multimodal AI / Education | `IN DEV` | Multimodal AI platform making educational content more accessible and personalized |
-| **SAT-SA** | Cybersecurity / SOC | `IN DEV` | SOC supervisory-analysis tool for reviewing operational evidence and surfacing signals |
-| **AgriThon** | AI / Social Impact | `HACKATHON` | Conversational AI assistant helping farmers find government schemes and guidance |
-| **Expiry Risk Redistribution Agent** | AI Agents | `PROTOTYPE` | Scores inventory expiry risk and recommends redistribution actions |
-| **IGRIS** | Personal AI Assistant | `EXPERIMENTAL` | Voice-first, intent-driven desktop AI assistant direction |
-| **DEVIL** | Personal AI System | `EXPERIMENTAL` | Voice-first desktop agent focused on automation |
-| **Rise and Shine** | AI / Health | `CONCEPT` | Habit + streak-reward assistant for food, workouts and routine |
-| **Skills Development Platform** | EdTech / AI | `CONCEPT` | Learning-progression system focused on practical capability, not just completion |
-| **GemmaApp** | AI / Mobile | `EXPERIMENTAL` | On-device AI experimentation built on Gemma |
+Exploring intelligent systems, cybersecurity, and the space where they meet.
+�
 
-<div align="center"><sub>Full write-ups — problem, approach, architecture, stack — live in the portfolio.</sub></div>
-
----
-
-### `// BUILD LOG`
-
-![SIH](https://img.shields.io/badge/Smart_India_Hackathon_×2-participated-0b0f19?style=flat-square&labelColor=0b0f19&color=5be0e8)
-![Lucentia](https://img.shields.io/badge/Lucentia-participated-0b0f19?style=flat-square&labelColor=0b0f19&color=5be0e8)
-![Datazoids](https://img.shields.io/badge/Datazoids-participated-0b0f19?style=flat-square&labelColor=0b0f19&color=5be0e8)
-![AgriThon](https://img.shields.io/badge/AgriThon-built-0b0f19?style=flat-square&labelColor=0b0f19&color=8c86e8)
-![Gemma](https://img.shields.io/badge/Build_with_Gemma-built-0b0f19?style=flat-square&labelColor=0b0f19&color=8c86e8)
-![EPAM](https://img.shields.io/badge/EPAM_Event-organized-0b0f19?style=flat-square&labelColor=0b0f19&color=ef5b5b)
-![ClaudeWorkshop](https://img.shields.io/badge/Claude_Workshop-presented-0b0f19?style=flat-square&labelColor=0b0f19&color=ef5b5b)
-
----
-
-### `// ACHIEVEMENTS`
-
-- 🛡️ NCC Cadet — 9th &amp; 10th grade
-- 🏁 Hackathon participant across multiple events
-- 🎤 Organized a technical event (EPAM) and presented a Claude workshop
-- 🧭 Active learner and builder — continuous project output
-
----
-
-### `// MISSION`
-
-```
-> master AI + cybersecurity fundamentals
-> build intelligent, agentic systems
-> deepen security research skills
-> ship real, working systems — not just demos
-> keep experimenting in public
-```
-
----
-
-### `// CONNECT`
-
-<div align="center">
-
-<a href="https://github.com/bloodravan"><img src="https://img.shields.io/badge/GitHub-0b0f19?style=for-the-badge&logo=github&logoColor=5be0e8" /></a>
-<a href="https://www.linkedin.com/in/medepallyanjanna"><img src="https://img.shields.io/badge/LinkedIn-0b0f19?style=for-the-badge&logo=linkedin&logoColor=8c86e8" /></a>
-<a href="https://x.com/blood__ravan1"><img src="https://img.shields.io/badge/X-0b0f19?style=for-the-badge&logo=x&logoColor=5be0e8" /></a>
-<a href="https://instagram.com/blood__ravan"><img src="https://img.shields.io/badge/Instagram-0b0f19?style=for-the-badge&logo=instagram&logoColor=8c86e8" /></a>
-<a href="https://www.youtube.com/@CyberHackGuide"><img src="https://img.shields.io/badge/YouTube-0b0f19?style=for-the-badge&logo=youtube&logoColor=5be0e8" /></a>
-<br/>
-<a href="https://leetcode.com/u/ur3BKItbnq/"><img src="https://img.shields.io/badge/LeetCode-0b0f19?style=for-the-badge&logo=leetcode&logoColor=8c86e8" /></a>
-<a href="https://www.hackerrank.com/profile/mbaboy143"><img src="https://img.shields.io/badge/HackerRank-0b0f19?style=for-the-badge&logo=hackerrank&logoColor=5be0e8" /></a>
-<a href="https://www.codechef.com/users/route_frog_61"><img src="https://img.shields.io/badge/CodeChef-0b0f19?style=for-the-badge&logo=codechef&logoColor=8c86e8" /></a>
-<a href="https://codeforces.com/profile/MedepallyAnjanna"><img src="https://img.shields.io/badge/Codeforces-0b0f19?style=for-the-badge&logo=codeforces&logoColor=5be0e8" /></a>
-<a href="https://tryhackme.com/p/bloodredigris77"><img src="https://img.shields.io/badge/TryHackMe-0b0f19?style=for-the-badge&logo=tryhackme&logoColor=8c86e8" /></a>
-<a href="https://www.kaggle.com/anjanna1"><img src="https://img.shields.io/badge/Kaggle-0b0f19?style=for-the-badge&logo=kaggle&logoColor=5be0e8" /></a>
-
-</div>
-
-<div align="center"><sub>Portfolio: link it here once your site has a live URL.</sub></div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:060a10,50:0b1a24,100:060a10&height=100&section=footer" width="100%"/>
-
-<div align="center"><sub>BUILD · LEARN · HACK · SECURE · AUTOMATE · REPEAT</sub></div>
+�
+Navigation
+Identity · Mission · Skills · Projects · Build Log · Achievements · Interests · Connect
+�
